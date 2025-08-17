@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.workflow327.ui.llmchat.LlmAskAudioViewModel

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.workflow327.app-mergeDebugResources-93:/values-v29/values-v29.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\8.11.1\\transforms\\c6fb923403c9af0e0c858ba31ce00857\\transformed\\core-splashscreen-1.2.0-beta01\\res\\values-v29\\values-v29.xml",
+                    "from": {
+                        "startLines": "2,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,442",
+                        "endLines": "7,8",
+                        "endColumns": "12,82",
+                        "endOffsets": "437,520"
+                    }
+                }
+            ]
+        }
+    ]
+}

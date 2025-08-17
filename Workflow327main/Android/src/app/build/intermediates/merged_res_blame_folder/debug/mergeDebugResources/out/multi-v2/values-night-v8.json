@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.workflow327.app-mergeDebugResources-93:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\8.11.1\\transforms\\c6fb923403c9af0e0c858ba31ce00857\\transformed\\core-splashscreen-1.2.0-beta01\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "195"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "240"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\8.11.1\\transforms\\7440b75779108811ccfb75a8dda052e5\\transformed\\appcompat-1.7.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "420,490,574,658,754,856,958,1052",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "485,569,653,749,851,953,1047,1136"
+                    }
+                },
+                {
+                    "source": "F:\\Workflow327\\Workflow327main\\Android\\src\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "2",
+                        "startOffsets": "671",
+                        "endLines": "20",
+                        "endColumns": "10",
+                        "endOffsets": "843"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "245",
+                        "endLines": "7",
+                        "endColumns": "10",
+                        "endOffsets": "415"
+                    }
+                }
+            ]
+        }
+    ]
+}

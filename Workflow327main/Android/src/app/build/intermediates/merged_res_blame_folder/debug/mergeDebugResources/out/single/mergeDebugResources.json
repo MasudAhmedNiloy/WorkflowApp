@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "com.workflow327.app-debug-95:/drawable_pantegon.xml.flat",
+        "source": "com.workflow327.app-main-97:/drawable/pantegon.xml"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/font_nunito_regular.ttf.flat",
+        "source": "com.workflow327.app-main-97:/font/nunito_regular.ttf"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/drawable_logo.xml.flat",
+        "source": "com.workflow327.app-main-97:/drawable/logo.xml"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/font_nunito_bold.ttf.flat",
+        "source": "com.workflow327.app-main-97:/font/nunito_bold.ttf"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.workflow327.app-main-97:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.workflow327.app-main-97:/mipmap-mdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.workflow327.app-main-97:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.workflow327.app-main-97:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/font_nunito_extrabold.ttf.flat",
+        "source": "com.workflow327.app-main-97:/font/nunito_extrabold.ttf"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.workflow327.app-main-97:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.workflow327.app-main-97:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.workflow327.app-main-97:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.workflow327.app-main-97:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.workflow327.app-main-97:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/font_nunito_semibold.ttf.flat",
+        "source": "com.workflow327.app-main-97:/font/nunito_semibold.ttf"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.workflow327.app-main-97:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/drawable_image_spark.xml.flat",
+        "source": "com.workflow327.app-main-97:/drawable/image_spark.xml"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.workflow327.app-main-97:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.workflow327.app-main-97:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/xml_data_extraction_rules.xml.flat",
+        "source": "com.workflow327.app-main-97:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/drawable_chat_spark.xml.flat",
+        "source": "com.workflow327.app-main-97:/drawable/chat_spark.xml"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.workflow327.app-main-97:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/xml_backup_rules.xml.flat",
+        "source": "com.workflow327.app-main-97:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.workflow327.app-main-97:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/font_nunito_extralight.ttf.flat",
+        "source": "com.workflow327.app-main-97:/font/nunito_extralight.ttf"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/drawable_text_spark.xml.flat",
+        "source": "com.workflow327.app-main-97:/drawable/text_spark.xml"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.workflow327.app-main-97:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/raw_third_party_license_metadata.flat",
+        "source": "com.workflow327.app-debug-92:/raw/third_party_license_metadata"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.workflow327.app-main-97:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.workflow327.app-main-97:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/font_nunito_medium.ttf.flat",
+        "source": "com.workflow327.app-main-97:/font/nunito_medium.ttf"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/drawable_double_circle.xml.flat",
+        "source": "com.workflow327.app-main-97:/drawable/double_circle.xml"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/font_nunito_light.ttf.flat",
+        "source": "com.workflow327.app-main-97:/font/nunito_light.ttf"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.workflow327.app-main-97:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/drawable_four_circle.xml.flat",
+        "source": "com.workflow327.app-main-97:/drawable/four_circle.xml"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.workflow327.app-main-97:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/font_nunito_black.ttf.flat",
+        "source": "com.workflow327.app-main-97:/font/nunito_black.ttf"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/raw_third_party_licenses.flat",
+        "source": "com.workflow327.app-debug-92:/raw/third_party_licenses"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.workflow327.app-main-97:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/drawable_circle.xml.flat",
+        "source": "com.workflow327.app-main-97:/drawable/circle.xml"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.workflow327.app-main-97:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.workflow327.app-main-97:/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/xml_file_paths.xml.flat",
+        "source": "com.workflow327.app-main-97:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.workflow327.app-debug-95:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.workflow327.app-main-97:/mipmap-hdpi/ic_launcher.png"
+    }
+]

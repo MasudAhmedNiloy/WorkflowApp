@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <style name="Theme.327Workflow.OssLicenses" parent="Theme.AppCompat">
+    <item name="android:windowOptOutEdgeToEdgeEnforcement" ns1:targetApi="35">true</item>
+  </style>
+</resources>
